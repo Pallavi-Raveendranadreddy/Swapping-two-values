@@ -30,7 +30,7 @@ b=temp
 print("Swapped values are:",(a),(b))
 ```
 ## OUTPUT:
-![mylabexperiment](./images/exercise1.png)
+![output](https://github.com/Pallavi-Raveendranadreddy/Swapping-two-values/blob/main/exercise1.PNG?raw=true)
 
 
 ## RESULT:
